@@ -1,0 +1,70 @@
+{
+ "updated": "2026-07-27 15:31 UTC",
+ "status": {
+  "hn": "ok, 5 new",
+  "bluesky": "unavailable (HTTPError)",
+  "google_news": "ok, 0 new"
+ },
+ "mentions": [
+  {
+   "source": "Hacker News",
+   "title": "Ask HN: Who is hiring? (July 2026)",
+   "snippet": "We The Flywheel | AI-Native Engineers & Operators | REMOTE (worldwide) | Contract / Part-time (10\u201340 hrs/wk) We're a remote-first digital product studio building across sports media, AI, fitness, and personal branding \u2014 500+ web properties and deeply AI-native workflows. AI does ",
+   "url": "https://news.ycombinator.com/item?id=48747990",
+   "author": "norejisace",
+   "date": "2026-07-01",
+   "query": "\"We The Flywheel\"",
+   "first_seen": "2026-07-27"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Ask HN: Who is hiring? (June 2026)",
+   "snippet": "We The Flywheel | Remote (Worldwide) / Ho Chi Minh City (Hybrid) | Part-time |  https://wetheflywheel.com  We\u2019re a global media network, digital consultancy, and product studio helping companies grow through technology and distribution at scale. Now hiring: Brand Strategy Directo",
+   "url": "https://news.ycombinator.com/item?id=48357766",
+   "author": "norejisace",
+   "date": "2026-06-01",
+   "query": "\"We The Flywheel\"",
+   "first_seen": "2026-07-27"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Ask HN: Who is hiring? (May 2026)",
+   "snippet": "We The Flywheel | Ho Chi Minh City (Hybrid) | Part-time |  https://wetheflywheel.com  We are a global media network, digital consultancy, and product studio focused on helping companies grow through technology and reach audiences at scale. We\u2019re opening up a role for an Entry-Lev",
+   "url": "https://news.ycombinator.com/item?id=48062670",
+   "author": "wtflywheel",
+   "date": "2026-05-08",
+   "query": "\"We The Flywheel\"",
+   "first_seen": "2026-07-27"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Ask HN: Who is hiring? (May 2026)",
+   "snippet": "We The Flywheel | Remote (Worldwide) / Ho Chi Minh City (Hybrid) | Part-time |  https://wetheflywheel.com  We are a global media network, digital consultancy, and product studio focused on helping companies grow through technology and reach audiences at scale. We are hiring for: ",
+   "url": "https://news.ycombinator.com/item?id=47975610",
+   "author": "norejisace",
+   "date": "2026-05-01",
+   "query": "\"We The Flywheel\"",
+   "first_seen": "2026-07-27"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Astro \u2013 Ochestrator of AI Agents Such as Claude Code and Codex",
+   "snippet": "What stood out to me here is the idea of orchestrating multiple coding agents across machines rather than treating AI coding as a single-agent workflow. Most discussions about AI-assisted development still assume one tool running locally, but the approach described here (task dec",
+   "url": "https://news.ycombinator.com/item?id=47355891",
+   "author": "The-Pebble",
+   "date": "2026-03-12",
+   "query": "prommer.net",
+   "first_seen": "2026-07-27"
+  },
+  {
+   "source": "Google News",
+   "title": "Rising Star: Kirkland's Thomas Prommer - Law360",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd2M1NHFkNkZJOFdXQVpKcjFBOU9PT0thd1hJcjJqdUZlVzl2clQ4a1RLSEp4VHpfdnFxRHRwZzFSTG5fTVNTamo4c0xLcW53NVE3OFpXeHJ4TERNbkk2UnpObEV3R2QzdzNJeDNndUVtVzVSa2lNUnFhMlg4TG50bjhDONIBVkFVX3lxTE9yWmRzeHpyLUptb2Z4RUs5eG9tN2IwNklLM2xRQW5Pb3pfQTNoMkMwcGhKRUxON3ZwMkE2VWRRY01paDhFbm11NTd6Sjk5TjVxY2ViOUdB?oc=5",
+   "author": "",
+   "date": "2025-08-13",
+   "query": "",
+   "first_seen": "2026-07-27"
+  }
+ ]
+}
