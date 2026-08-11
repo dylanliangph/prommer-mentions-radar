@@ -1,9 +1,9 @@
 {
- "updated": "2026-08-10 22:46 UTC",
+ "updated": "2026-08-11 22:52 UTC",
  "status": {
   "hn": "ok, 0 new",
   "bluesky": "unavailable (HTTPError)",
-  "google_news": "ok, 0 new"
+  "google_news": "ok, 1 new"
  },
  "mentions": [
   {
@@ -15,6 +15,16 @@
    "date": "2026-07-01",
    "query": "\"We The Flywheel\"",
    "first_seen": "2026-07-27"
+  },
+  {
+   "source": "Google News",
+   "title": "Thomas Prommer Named Global CIO 2026 by HotTopics - streetinsider.com",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUEI5bF9ubzhIaDBSckxCbTNrVWhUUkl1UW5Wc0I2STdlZGdrM3FyWlZBTEt2UWh0Sk9QR1RraDc1RmQweTV3SzE3RFpDaGZybklSZHY3QlNYUHBFRWdqdTkyVXQyR0MwNk5XS2J6QnVGSk1vMjBsLVBnYk8tMGdpM0hMT3FLUmJyRjBwQmJZa1FRZ2RfX2JlUDNnNnlUX2hwYmU4?oc=5",
+   "author": "",
+   "date": "2026-06-23",
+   "query": "",
+   "first_seen": "2026-08-11"
   },
   {
    "source": "Hacker News",
