@@ -1,9 +1,9 @@
 {
- "updated": "2026-08-16 22:28 UTC",
+ "updated": "2026-08-17 22:31 UTC",
  "status": {
   "hn": "ok, 0 new",
   "bluesky": "unavailable (HTTPError)",
-  "google_news": "ok, 0 new"
+  "google_news": "unavailable (HTTPError)"
  },
  "mentions": [
   {
