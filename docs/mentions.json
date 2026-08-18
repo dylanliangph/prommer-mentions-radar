@@ -1,11 +1,21 @@
 {
- "updated": "2026-08-17 22:31 UTC",
+ "updated": "2026-08-18 22:31 UTC",
  "status": {
   "hn": "ok, 0 new",
   "bluesky": "unavailable (HTTPError)",
-  "google_news": "unavailable (HTTPError)"
+  "google_news": "ok, 1 new"
  },
  "mentions": [
+  {
+   "source": "Google News",
+   "title": "Thomas Prommer Named Global CIO 2026 by HotTopics - USA Today",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNk5EbjhQX2FMUkxLSFBKenZ3TjlvZTY3Z0dEMU51cldnSmZ6dTRSWF9EWFVyR1JUdFltbGFCSU1xbnk5Y1cwMXNGMGdYZDJWcUlENi03ZlhsZXIzalZDVGNNbjJBLXlicEg4emt4UGdscGNhQlk1UFVRc2lla1BDSUpWRzltMmlDWGVJSUExSEdJVXFBUV9OaDZvRi1mTkhHVU04?oc=5",
+   "author": "",
+   "date": "2026-08-17",
+   "query": "",
+   "first_seen": "2026-08-18"
+  },
   {
    "source": "Hacker News",
    "title": "Ask HN: Who is hiring? (July 2026)",
