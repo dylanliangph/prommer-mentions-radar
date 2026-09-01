@@ -1,11 +1,21 @@
 {
- "updated": "2026-09-01 01:10 UTC",
+ "updated": "2026-09-01 23:56 UTC",
  "status": {
-  "hn": "ok, 0 new",
+  "hn": "ok, 1 new",
   "bluesky": "unavailable (HTTPError)",
   "google_news": "ok, 0 new"
  },
  "mentions": [
+  {
+   "source": "Hacker News",
+   "title": "Ask HN: Who is hiring? (September 2026)",
+   "snippet": "We The Flywheel | AI-Native Engineers & Operators | REMOTE (worldwide) | Contract / Part-time (10\u201340 hrs/wk) We're a remote-first digital product studio building across sports media, AI, fitness, and personal branding \u2014 500+ web properties and deeply AI-native workflows. AI does ",
+   "url": "https://news.ycombinator.com/item?id=49522930",
+   "author": "norejisace",
+   "date": "2026-09-01",
+   "query": "\"We The Flywheel\"",
+   "first_seen": "2026-09-01"
+  },
   {
    "source": "Google News",
    "title": "Thomas Prommer Named Global CIO 2026 by HotTopics - USA Today",
