@@ -1,11 +1,21 @@
 {
- "updated": "2026-10-01 01:11 UTC",
+ "updated": "2026-10-02 01:30 UTC",
  "status": {
-  "hn": "ok, 0 new",
+  "hn": "ok, 1 new",
   "bluesky": "unavailable (HTTPError)",
   "google_news": "ok, 0 new"
  },
  "mentions": [
+  {
+   "source": "Hacker News",
+   "title": "Ask HN: Who is hiring? (October 2026)",
+   "snippet": "We The Flywheel | Production Designer | REMOTE (async, global) | Contract, part-time to full-time |  https://wetheflywheel.com/en/careers/production-designer-rem...  We're a small, agent-led studio. Most of our ops run through AI agents, and the people here direct them. We need a",
+   "url": "https://news.ycombinator.com/item?id=49922606",
+   "author": "norejisace",
+   "date": "2026-10-01",
+   "query": "\"We The Flywheel\"",
+   "first_seen": "2026-10-02"
+  },
   {
    "source": "Hacker News",
    "title": "Ask HN: Who is hiring? (September 2026)",
