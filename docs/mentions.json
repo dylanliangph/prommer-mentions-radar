@@ -1,11 +1,21 @@
 {
- "updated": "2026-10-09 01:55 UTC",
+ "updated": "2026-10-10 01:38 UTC",
  "status": {
   "hn": "ok, 0 new",
   "bluesky": "unavailable (HTTPError)",
-  "google_news": "ok, 0 new"
+  "google_news": "ok, 1 new"
  },
  "mentions": [
+  {
+   "source": "Google News",
+   "title": "We The Flywheel Gives Its AI Agents Written Job Descriptions - openPR.com",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMm9MdVU5OFhjU3ZaVkxDLUNZeC03V2lPQTIydjR1bER3ZGp3aXpIbGQxbXhfM0l4bDBLaWd1V3VtVzFCTm5KbnJSVGhYWlZWOVgtOW9MTGFCcngxOTA1bk5Wb1dkVmQ3QzZQMnMtZm16WDlwUXNtbldlVnJHRTc2NkZURV8tZHVmQmFWYktXMGhBbV9TN09BR1B2SGc?oc=5",
+   "author": "",
+   "date": "2026-10-09",
+   "query": "",
+   "first_seen": "2026-10-10"
+  },
   {
    "source": "Hacker News",
    "title": "Ask HN: Who is hiring? (October 2026)",
