@@ -1,11 +1,21 @@
 {
- "updated": "2026-10-28 01:06 UTC",
+ "updated": "2026-10-29 01:41 UTC",
  "status": {
   "hn": "ok, 0 new",
   "bluesky": "unavailable (HTTPError)",
-  "google_news": "ok, 0 new"
+  "google_news": "ok, 1 new"
  },
  "mentions": [
+  {
+   "source": "Google News",
+   "title": "Thomas Prommer Named 2026 CTO Craft 100 - openPR.com",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNjYyYl9xbWUydE5hNVN1dGxkSUpENk9SWEFhcTJTb0JueEl5aF9uRFV2V3Y4M3ctdzJZeHZ4aFNvZXIwWndmemV1Z0h3Y0xubHJaYlRhNUFVTUtyMXEwTFZkTFlyd2NSRmZBUGZWRVFsaW02akJxdlB5N2EtamhHcw?oc=5",
+   "author": "",
+   "date": "2026-10-28",
+   "query": "",
+   "first_seen": "2026-10-29"
+  },
   {
    "source": "Google News",
    "title": "We The Flywheel Gives Its AI Agents Written Job Descriptions - openPR.com",
