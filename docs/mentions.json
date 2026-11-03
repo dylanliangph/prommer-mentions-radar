@@ -1,11 +1,21 @@
 {
- "updated": "2026-11-02 01:25 UTC",
+ "updated": "2026-11-03 03:24 UTC",
  "status": {
-  "hn": "ok, 0 new",
+  "hn": "ok, 1 new",
   "bluesky": "unavailable (HTTPError)",
   "google_news": "ok, 0 new"
  },
  "mentions": [
+  {
+   "source": "Hacker News",
+   "title": "Ask HN: Who is hiring? (November 2026)",
+   "snippet": "We The Flywheel | Remote | Brand Identity Designer (AI-agent team) | Hourly, flexible hours We build and run our own brands (race finders, training tools, AI guides, sports media) with a small remote team and a lot of AI agents. Most of our brands have an identity that is good en",
+   "url": "https://news.ycombinator.com/item?id=50338830",
+   "author": "offscript",
+   "date": "2026-11-02",
+   "query": "\"We The Flywheel\"",
+   "first_seen": "2026-11-03"
+  },
   {
    "source": "Google News",
    "title": "Thomas Prommer Named 2026 CTO Craft 100 - openPR.com",
