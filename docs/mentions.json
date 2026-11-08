@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-07 01:45 UTC",
+ "updated": "2026-11-08 01:15 UTC",
  "status": {
   "hn": "ok, 0 new",
   "bluesky": "unavailable (HTTPError)",
-  "google_news": "ok, 0 new"
+  "google_news": "ok, 1 new"
  },
  "mentions": [
   {
@@ -25,6 +25,16 @@
    "date": "2026-10-28",
    "query": "",
    "first_seen": "2026-10-29"
+  },
+  {
+   "source": "Google News",
+   "title": "Thomas Prommer Named 2026 CTO Craft 100 - USA Today",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQnlWXzRSakhiY2dwQS1Za2hBRHM3MmFJcU94WVlaanQ0VXpzZjdaejhKZGlwc2E2NXJOWGNTTWVRR1Z3Y3NmSkhqUER5THQyQjRndVNDaENCWmcxNUJuRGlvMGk3RWw5M2hURV9wMDJhRmRZSTM3NjgxZWJhSVp2SVhmR2JFdnpnLWxYQ2FsYUVETnRGckE?oc=5",
+   "author": "",
+   "date": "2026-10-28",
+   "query": "",
+   "first_seen": "2026-11-08"
   },
   {
    "source": "Google News",
