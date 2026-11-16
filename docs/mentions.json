@@ -1,11 +1,21 @@
 {
- "updated": "2026-11-15 01:42 UTC",
+ "updated": "2026-11-16 01:47 UTC",
  "status": {
   "hn": "ok, 0 new",
   "bluesky": "unavailable (HTTPError)",
-  "google_news": "unavailable (HTTPError)"
+  "google_news": "ok, 1 new"
  },
  "mentions": [
+  {
+   "source": "Google News",
+   "title": "Agentic QA: We The Flywheel Hands Software Testing to AI Agents - openPR.com",
+   "snippet": "",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT1hnR3huS0lIWUgyMV9oMkd6ZkFJQ2dUZHQ3SFRIZHQ0WU5sNk5tcmpCdDlYTEZhZHVadW0wVFV5dU84QWcweG1nRE92LThrNzV2QWZGRG9Zc080R1NUZ0VIRk5LV1g2cm1tSkNUaWtEZFhqekg5UHBmVjBSUlJiRW5OTEpEZnZua0E0djVuZWJiMnFKbUY0ekFHZkdScXM?oc=5",
+   "author": "",
+   "date": "2026-11-14",
+   "query": "",
+   "first_seen": "2026-11-16"
+  },
   {
    "source": "Hacker News",
    "title": "Ask HN: Who is hiring? (November 2026)",
